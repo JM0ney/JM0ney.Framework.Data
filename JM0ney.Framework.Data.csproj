@@ -64,12 +64,6 @@
     <Compile Include="ObjectBase.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\JM0ney.Framework\JM0ney.Framework.csproj">
-      <Project>{b367f991-3b9e-402f-a7f5-eb80679e4953}</Project>
-      <Name>JM0ney.Framework</Name>
-    </ProjectReference>
-  </ItemGroup>
   <ItemGroup />
   <ItemGroup>
     <EmbeddedResource Include="Localization\ErrorMessages.resx">
